@@ -1,0 +1,1 @@
+print("sigh\nsigh\nsigh")
